@@ -22,3 +22,5 @@ Juan Arias   , Equipo de diseño, +56974500442,jear.arias@gmail.com
 Juan Millan, Encargado de desarrollo industrial, +56982337616 , jjmillancas@gmail.com
 
 Pablo Loza, Equipo de diseño, +56977992752, loza15_uc@live.com
+
+Ignacio Bugueño, Encargado de pruebas de software, +56995532552, ignacio.bugueno@live.com
